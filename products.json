@@ -1,0 +1,23 @@
+{
+    "Чёрная однотонная футболка Unisex": {
+        "Size": "XS-6XL",
+        "fabric": "cotton",
+        "color": "black",
+        "gender": "unisex"
+    },
+
+    "Чёрно-белые чашки": {
+        "color": "black and white",
+        "material": "ceramics",
+        "depth": "250 ml",
+        "weight": "100 gr"
+    },
+
+    "Чёрный диван": {
+        "color": "black",
+        "material": "natural leather",
+        "length": "520 cm",
+        "width": "70 cm"
+    }
+
+}
